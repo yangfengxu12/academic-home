@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Fengxu Yang's Homepage | 杨丰旭"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Fengxu Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Fengxu Yang"
 description              : &description "Fengxu Yang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
