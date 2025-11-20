@@ -3,7 +3,7 @@ name: Build and Deploy Academic Pages
 on:
   push:
     branches:
-      - master   # 如果你的仓库默认分支是 master，就把 main 改成 master
+      - master   # 如果你用的是 master，这里写 master
 
 jobs:
   build-and-deploy:
@@ -37,7 +37,7 @@ jobs:
           echo "Host *" >> ~/.ssh/config
           echo "  StrictHostKeyChecking no" >> ~/.ssh/config
 
-      # ① 同步源码到服务器（方便你在服务器上看代码）
+      # ① 同步源码到服务器，方便你在服务器上查看
       - name: Sync source code to server
         run: |
           rsync -avz --delete ./ \
@@ -47,7 +47,7 @@ jobs:
             --exclude 'vendor' \
             --exclude '.github'
 
-      # ② 部署生成好的静态网站到 1Panel 网站目录
+      # ② 同步生成好的静态站点到 1Panel 的 index 目录
       - name: Deploy static site via rsync
         run: |
           rsync -avz --delete ./_site/ \
