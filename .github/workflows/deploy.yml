@@ -1,0 +1,54 @@
+name: Build and Deploy Academic Pages
+
+on:
+  push:
+    branches:
+      - main   # 如果你的仓库默认分支是 master，就把 main 改成 master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          bundle install
+
+      - name: Build site with Jekyll
+        run: |
+          bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          echo "Host *" >> ~/.ssh/config
+          echo "  StrictHostKeyChecking no" >> ~/.ssh/config
+
+      # ① 同步源码到服务器（方便你在服务器上看代码）
+      - name: Sync source code to server
+        run: |
+          rsync -avz --delete ./ \
+            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/opt/1panel/www/repos/academic-home-src/ \
+            --exclude '.git' \
+            --exclude '_site' \
+            --exclude 'vendor' \
+            --exclude '.github'
+
+      # ② 部署生成好的静态网站到 1Panel 网站目录
+      - name: Deploy static site via rsync
+        run: |
+          rsync -avz --delete ./_site/ \
+            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}/
