@@ -27,8 +27,9 @@ author:
   name             : "Fengxu Yang | 杨丰旭"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate at ShanghaiTech University"
-  location         : "Shanghai, China"
+  office           : "Room 1C407, SIST Building" # Your office location
   employer         : "ShanghaiTech University"
+  location         : "Shanghai, China"
   uri              : # URL
   email            : "yangfx@shanghaitech.edu.cn" 
 
