@@ -34,6 +34,20 @@ My research primarily focuses on **LiDAR-centric** perception and the **security
 
 ## Honors & Award
 
+- ACM CPS-IoT Week Student Travel Grant (10/110), 2025
+- SIST Outstanding Teaching Assistant, 2023
+- The 2nd prize of 6th Future Network Development Conference, 2022
+- EWSN Best Paper Nominee, 2021
+- EWSN Best Poster, 2020
+- The 3rd prize of International Water Robot Competition, 2017
+- The 1st prize Shanxi Undergraduate Electronic Design Competition, 2016
+- The 3rd prize of National Intelligent Things Association Competition, 2016
+- The 3rd prize of International Water Robot Competition, 2016
+- The 3rd prize of China Robot Competition, 2016
+- The 1st prize of International Water Robot Competition, 2015
+- The 2nd prize of National Undergraduate Electronic Design Competition, 2015
+- The 2nd prize of Robot Competition in North China, 2015
+
 <div id="teaching"></div>
 
 ## Teaching Experience**Teaching Assistant**
