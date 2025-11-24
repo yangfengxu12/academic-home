@@ -9,14 +9,14 @@ author_profile: true
 
 ## Lab Activities & Memories
 
-### 🎉 RAID Social - October 2025
+### 🎉 RAID Photo at RAID Conference Poster Session - October 2025
 **Date:** 2025-10-20
 
 <div class="event-gallery">
   <img src="{{ base_path }}/images/lab-life/2025-10-raid_soical-1.jpg" alt="RAID conference social event">
 </div>
 
-*Social gathering at RAID conference.*
+*RAID social event at RAID conference.*
 
 ---
 
@@ -65,7 +65,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-06-Candid Group Photo During Lab Meeting.jpg" alt="Lab meeting group photo">
 </div>
 
-*Candid moment captured during one of our lab meetings.*
+*Candid moment captured during one of our group meetings.*
 
 ---
 
@@ -76,7 +76,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-05-sensys_banquet-1.jpg" alt="SenSys conference banquet">
 </div>
 
-*Networking and celebrating at the SenSys conference banquet.*
+*Networking photo at the SenSys conference banquet.*
 
 ---
 
@@ -89,14 +89,14 @@ author_profile: true
 
 ---
 
-### 🎓 YYH & HYH - October 2024
+<!-- ### 🎓 YYH & HYH - October 2024
 **Date:** 2024-10
 
 <div class="event-gallery">
   <img src="{{ base_path }}/images/lab-life/2024-10-yyh&hyh.jpg" alt="YYH and HYH">
 </div>
 
----
+--- -->
 
 ### 🎉 Lab Group Working on a Minesweeper Game - September 2024
 **Date:** 2024-09
@@ -109,7 +109,7 @@ author_profile: true
 
 ---
 
-### 🎊 Awesome Yihong Hang - June 2024
+### 🎊 Awesome Lab Moment with Headset - June 2024
 **Date:** 2024-06
 
 <div class="event-gallery">
