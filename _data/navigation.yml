@@ -28,6 +28,9 @@ main:
         
   - title: "CV"
     url: /cv/
+
+  - title: "Lab Life@ZLAB"
+    url: /lab-life/
     
   # - title: "CV"
   #   url: /cv-json/

@@ -33,6 +33,29 @@
     background-color: #ffd700;
     color: #333333;
   }
+  
+  /* News list alignment */
+  #news + ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  #news + ul li {
+    text-indent: -8.5em;
+    padding-left: 8.5em;
+    margin-bottom: 0.5em;
+  }
+  #news + ul li strong:first-child {
+    display: inline-block;
+    width: 8em;
+    text-indent: 0;
+  }
+  .hidden-news {
+    display: none;
+  }
+  #news-toggle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
 </style>
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->

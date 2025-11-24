@@ -7,8 +7,9 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D. candidate in the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in Shanghai, China, supervised by [Prof. Zhice Yang](https://yangzhice.com). I was admitted to the Ph.D. program after completing my master’s training at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) (2019–2022), where I worked with Prof. Jiangming Wei and was mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com). I received my bachelor’s degree from the School of Information and Communication Engineering, North University of China, in Taiyuan, Shanxi, China, in 2018.
+I am a Ph.D. candidate in the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in Shanghai, China, supervised by [Prof. Zhice Yang](https://yangzhice.com). I was admitted to the Ph.D. program after completing my master's training at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) (2019–2022), where I worked with Prof. Jiangming Wei and was mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com). I received my bachelor's degree from the School of Information and Communication Engineering, North University of China, in Taiyuan, Shanxi, China, in 2018.
 
+<p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently on the job market for postdoctoral positions!</p>
 
 ## Research Interests
 {: #research}
@@ -18,7 +19,37 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 ## News
 {: #news}
 
-- Our paper **LiDARMarker** was accepted by ACM SenSys'25!
+<ul id="news-list">
+  <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>ACM RAID'25</strong>!</li>
+  <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
+  <li><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
+  <li><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
+  <li><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
+  <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 Received <strong>SIST Outstanding Teaching Assistant</strong> Award.</li>
+  <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>ACM EWSN'22</strong>!</li>
+  <li class="hidden-news"><strong>[2022-03-10]</strong> 🎉 Our paper "EMU: Increasing the Performance and Applicability of LoRa" was accepted by <strong>ACM/IEEE IPSN'22</strong>!</li>
+  <li class="hidden-news"><strong>[2021-09-20]</strong> 🎉 Our dataset paper was accepted by <strong>ACM SenSys'21 Workshop</strong>!</li>
+  <li class="hidden-news"><strong>[2021-01-15]</strong> 🎉 Our paper "ChirpBox: An Infrastructure-Less LoRa Testbed" was accepted by <strong>ACM EWSN'21</strong>!</li>
+  <li class="hidden-news"><strong>[2021-02-17]</strong> 🏆 Received <strong>EWSN Best Paper Nominee</strong>!</li>
+  <li class="hidden-news"><strong>[2020-11-16]</strong> 🏆 Received <strong>EWSN Best Poster</strong> Award!</li>
+  <li class="hidden-news"><strong>[2020-11-16]</strong> 🎉 Our poster was accepted by <strong>ACM EWSN'20</strong>!</li>
+</ul>
+
+<button id="news-toggle" class="btn btn--primary btn--small" onclick="toggleNews()">Show More</button>
+
+<script>
+function toggleNews() {
+  var hiddenNews = document.querySelectorAll('.hidden-news');
+  var btn = document.getElementById('news-toggle');
+  var isHidden = hiddenNews[0].style.display === 'none' || hiddenNews[0].style.display === '';
+  
+  hiddenNews.forEach(function(item) {
+    item.style.display = isHidden ? 'list-item' : 'none';
+  });
+  
+  btn.textContent = isHidden ? 'Show Less' : 'Show More';
+}
+</script>
 
 
 <div id="publications"></div>
@@ -69,9 +100,9 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 
 **Teaching Assistant**
 
-- Wireless and Mobile System, CS222, 2024
-- Computer Network, CS120, 2022, 2023
-- Introduction of Information Science and Technology, SI100B, 2020
+- Wireless and Mobile System (CS222) 2024
+- Computer Network (CS120) 2022, 2023
+- Introduction of Information Science and Technology (SI100B) 2020
 
 <div id="service"></div>
 
