@@ -9,14 +9,14 @@ author_profile: true
 
 ## Lab Activities & Memories
 
-### 🎉 RAID Photo at RAID Conference Poster Session - October 2025
+### 🎉 RAID Conference Poster Session - October 2025
 **Date:** 2025-10-20
 
 <div class="event-gallery">
-  <img src="{{ base_path }}/images/lab-life/2025-10-raid_soical-1.jpg" alt="RAID conference social event">
+  <img src="{{ base_path }}/images/lab-life/2025-10-raid_soical-1.jpg" alt="RAID conference poster session">
 </div>
 
-*RAID social event at RAID conference.*
+*Poster session photo at RAID conference.*
 
 ---
 
@@ -32,7 +32,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-10_lab_national_day_camping_trip-6.jpg" alt="Camping trip 6">
 </div>
 
-*Lab outdoor camping adventure during National Day holiday. Team bonding and fun activities in nature.*
+*Lab outdoor camping adventure during the National Day holiday. Team bonding and fun activities in nature.*
 
 ---
 
@@ -54,7 +54,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-08-lab-gather-1.jpg" alt="Lab gathering">
 </div>
 
-*Lab social gathering and team bonding.*
+*Social gathering with lab members.*
 
 ---
 
@@ -65,7 +65,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-06-Candid Group Photo During Lab Meeting.jpg" alt="Lab meeting group photo">
 </div>
 
-*Candid moment captured during one of our group meetings.*
+*A candid moment captured during one of our lab meetings.*
 
 ---
 
@@ -76,7 +76,7 @@ author_profile: true
   <img src="{{ base_path }}/images/lab-life/2025-05-sensys_banquet-1.jpg" alt="SenSys conference banquet">
 </div>
 
-*Networking photo at the SenSys conference banquet.*
+*Networking and celebrating at the SenSys conference banquet.*
 
 ---
 
@@ -98,22 +98,22 @@ author_profile: true
 
 --- -->
 
-### 🎉 Lab Group Working on a Minesweeper Game - September 2024
+### 🎮 Lab Team Building: Minesweeper Game - September 2024
 **Date:** 2024-09
 
 <div class="event-gallery">
-  <img src="{{ base_path }}/images/lab-life/2024-09-Lab Group Working on a Minesweeper Game-1.jpg" alt="Working on Minesweeper game">
+  <img src="{{ base_path }}/images/lab-life/2024-09-Lab Group Working on a Minesweeper Game-1.jpg" alt="Lab team working on Minesweeper game">
 </div>
 
-*Fun team activity: collaborative Minesweeper game session.*
+*Fun team-building activity: collaborative Minesweeper game session.*
 
 ---
 
-### 🎊 Awesome Lab Moment with Headset - June 2024
+### 🎊 Lab Research in Action - June 2024
 **Date:** 2024-06
 
 <div class="event-gallery">
-  <img src="{{ base_path }}/images/lab-life/2024-06-awsome-hyh-1.jpg" alt="Awesome HYH">
+  <img src="{{ base_path }}/images/lab-life/2024-06-awsome-hyh-1.jpg" alt="Lab member with VR headset">
 </div>
 
 ---
