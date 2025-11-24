@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Biography"
-    url: /#biography
+  # - title: "Biography"
+  #   url: /#biography
 
   - title: "Research"
     url: /#research
@@ -20,12 +20,12 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Awards"
+    url: /#awards
+
   - title: "Teaching"
     url: /#teaching
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
