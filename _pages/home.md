@@ -62,19 +62,19 @@ function toggleNews() {
 - **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou, Jiaqi Zhou, Zhice Yang. "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems".
 - **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang. "Enable Autonomous Backscatter in Everyday Devices".
 - **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei. "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing".
-- **[ACM SenSys'21 Workshop]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei. "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network".
 - **[ACM EWSN'21]** <span class="badge badge-core-a">Core A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed".
 
 **Journal**
 
 - **[MDPI Sensors'21]** Qingjie Guo, **<u>Fengxu Yang</u>**, Jianming Wei, "Experimental Evaluation of the Packet Reception Performance of LoRa", Sensors, 2021, 21[4]: 1071.
 
-**Demo & Poster**
+**Workshop & Demo & Poster**
 
-- **[ACM SenSys'25]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging".
-- **[ACM SenSys'25]** Yihong Hang, Hao Li, Huangxun Chen, **<u>Fengxu Yang</u>**, Zhice Yang, "LLM-Piloted Visual Privacy Agent on Mobile Systems".
-- **[ACM EWSN'22]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei. "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor".
-- **[ACM EWSN'20]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei. "Poster: Chirpbox-A Low-Cost LoRa Testbed Solution".
+- **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging".
+- **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, Huangxun Chen, **<u>Fengxu Yang</u>**, Zhice Yang, "LLM-Piloted Visual Privacy Agent on Mobile Systems".
+- **[ACM EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei. "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor".
+- **[ACM SenSys'21 Workshop]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei. "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network".
+- **[ACM EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei. "Poster: Chirpbox-A Low-Cost LoRa Testbed Solution".
 
 <div id="awards"></div>
 
