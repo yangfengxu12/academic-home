@@ -20,19 +20,19 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 {: #news}
 
 <ul id="news-list">
-  <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>ACM RAID'25</strong>!</li>
+  <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
   <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
   <li><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
   <li><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
   <li><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
   <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 Received <strong>SIST Outstanding Teaching Assistant</strong> Award.</li>
-  <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>ACM EWSN'22</strong>!</li>
+  <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>EWSN'22</strong>!</li>
   <li class="hidden-news"><strong>[2022-03-10]</strong> 🎉 Our paper "EMU: Increasing the Performance and Applicability of LoRa" was accepted by <strong>ACM/IEEE IPSN'22</strong>!</li>
   <li class="hidden-news"><strong>[2021-09-20]</strong> 🎉 Our dataset paper was accepted by <strong>ACM SenSys'21 Workshop</strong>!</li>
-  <li class="hidden-news"><strong>[2021-01-15]</strong> 🎉 Our paper "ChirpBox: An Infrastructure-Less LoRa Testbed" was accepted by <strong>ACM EWSN'21</strong>!</li>
+  <li class="hidden-news"><strong>[2021-01-15]</strong> 🎉 Our paper "ChirpBox: An Infrastructure-Less LoRa Testbed" was accepted by <strong>EWSN'21</strong>!</li>
   <li class="hidden-news"><strong>[2021-02-17]</strong> 🏆 Received <strong>EWSN Best Paper Nominee</strong>!</li>
   <li class="hidden-news"><strong>[2020-11-16]</strong> 🏆 Received <strong>EWSN Best Poster</strong> Award!</li>
-  <li class="hidden-news"><strong>[2020-11-16]</strong> 🎉 Our poster was accepted by <strong>ACM EWSN'20</strong>!</li>
+  <li class="hidden-news"><strong>[2020-11-16]</strong> 🎉 Our poster was accepted by <strong>EWSN'20</strong>!</li>
 </ul>
 
 <button id="news-toggle" class="btn btn--primary btn--small" onclick="toggleNews()">Show More</button>
