@@ -84,7 +84,7 @@ function toggleNews() {
 
 - ACM CPS-IoT Week Student Travel Grant (10/110), 2025
 - SIST Outstanding Teaching Assistant, 2023
-- The 2nd prize of 6th Future Network Development Conference, 2022
+- 2nd place at the 2022 Lights of Future – Future Network Technology and Innovation Competition, 2022
 - EWSN Best Paper Nominee, 2021
 - EWSN Best Poster, 2020
 - The 3rd prize of International Underwater Robot Competition, 2017
