@@ -20,11 +20,12 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 {: #news}
 
 <ul id="news-list">
+  <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" is accepted by <strong>IEEE SECON'26</strong> (to appear)!</li>
   <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
   <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
   <li><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
   <li><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
-  <li><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
+  <li class="hidden-news"><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
   <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 Received <strong>SIST Outstanding Teaching Assistant</strong> Award.</li>
   <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>EWSN'22</strong>!</li>
   <li class="hidden-news"><strong>[2022-03-10]</strong> 🎉 Our paper "EMU: Increasing the Performance and Applicability of LoRa" was accepted by <strong>ACM/IEEE IPSN'22</strong>!</li>
@@ -58,6 +59,7 @@ function toggleNews() {
 
 **Conference**
 
+ - **[IEEE SECON'26]**  Jiaqi Zhou and **<u>Fengxu Yang</u>**; Yihui Yan; Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". (To appear)
  - **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">Core A</span> **<u>Fengxu Yang</u>**, Yihui Yan, Paizhuo Chen, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
  - **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou, Jiaqi Zhou, Zhice Yang. "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
  - **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang. "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
