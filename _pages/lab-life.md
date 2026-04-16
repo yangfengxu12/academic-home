@@ -9,8 +9,8 @@ author_profile: true
 
 ## Lab Activities & Memories
 
-### 🔥 Lab Outdoor BBQ - April 2026
-**Date:** 2026-04
+### 🏕️ Lab Outdoor BBQ - April 2026
+**Date:** 2026-04-10
 
 <div class="event-gallery">
   <img src="{{ base_path }}/images/lab-life/2026-04_lab_qingming_festival_camping_trip-1.jpg" alt="Qingming Festival BBQ 1">
@@ -179,6 +179,16 @@ author_profile: true
   h3 {
     margin-top: 2em;
     color: #2c3e50;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    h3 {
+      color: #e0e6ed;
+    }
+
+    hr {
+      border-top-color: #444;
+    }
   }
   
   hr {
