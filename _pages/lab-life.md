@@ -1,4 +1,4 @@
-﻿---
+---
 layout: archive
 # title: "Lab Life"
 permalink: /lab-life/
