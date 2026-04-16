@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 # title: "Lab Life"
 permalink: /lab-life/
@@ -8,6 +8,19 @@ author_profile: true
 {% include base_path %}
 
 ## Lab Activities & Memories
+
+### 🔥 Lab Outdoor BBQ - April 2026
+**Date:** 2026-04
+
+<div class="event-gallery">
+  <img src="{{ base_path }}/images/lab-life/2026-04_lab_qingming_festival_camping_trip-1.jpg" alt="Qingming Festival BBQ 1">
+  <img src="{{ base_path }}/images/lab-life/2026-04_lab_qingming_festival_camping_trip-2.jpg" alt="Qingming Festival BBQ 2">
+  <img src="{{ base_path }}/images/lab-life/2026-04_lab_qingming_festival_camping_trip-3.jpg" alt="Qingming Festival BBQ 3">
+</div>
+
+*Lab outdoor BBQ gathering during the Qingming Festival holiday.*
+
+---
 
 ### 🎉 RAID Conference Poster Session - October 2025
 **Date:** 2025-10-20
