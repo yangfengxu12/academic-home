@@ -20,6 +20,7 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 {: #news}
 
 <ul id="news-list">
+  <li><strong>[2026-05-21]</strong> 🎉 I passed Ph.D defense.</strong> (to appear)!</li>
   <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" is accepted by <strong>IEEE SECON'26</strong> (to appear)!</li>
   <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
   <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
