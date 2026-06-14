@@ -20,8 +20,8 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 {: #news}
 
 <ul id="news-list">
-  <li><strong>[2026-05-21]</strong> 🎉 I passed my Ph.D defense!</li>
-  <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" is accepted by <strong>IEEE SECON'26</strong> (to appear)!</li>
+  <li><strong>[2026-05-21]</strong> 🎉 I passed my Ph.D. defense!</li>
+  <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" was accepted by <strong>IEEE SECON'26</strong>!</li>
   <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
   <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
   <li><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
@@ -60,13 +60,12 @@ function toggleNews() {
 
 **Conference**
 
- - **[IEEE SECON'26]**  <span class="badge badge-ccf-b">CCF-B</span> Jiaqi Zhou and **<u>Fengxu Yang</u>**; Yihui Yan; Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". [[Paper]](/files/papers/conference/zhou_secon26lora2mobile.pdf)
- - **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">Core A</span> **<u>Fengxu Yang</u>**, Yihui Yan, Paizhuo Chen, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
- - **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou, Jiaqi Zhou, Zhice Yang. "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
- - **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang. "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
- - **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei. "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing".[[Paper]](/files/papers/conference/yang_ipsn22emu.pdf)
- - **[EWSN'21]** <span class="badge badge-core-a">Core A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed". [[Paper]](/files/papers/conference/tian21chirpbox.pdf) 
- <span style="color:#d73a49; font-weight:600;">(Best paper nominee)</span>
+- **[IEEE SECON'26]** <span class="badge badge-ccf-b">CCF-B</span> Jiaqi Zhou, **<u>Fengxu Yang</u>**, Yihui Yan, Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". [[Paper]](/files/papers/conference/zhou_secon26lora2mobile.pdf)
+- **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">Core A</span> **<u>Fengxu Yang</u>**, Yihui Yan, Paizhuo Chen, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
+- **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou Yang, Jiaqi Zhou, Zhice Yang, "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
+- **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang, "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
+- **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing". [[Paper]](/files/papers/conference/yang_ipsn22emu.pdf)
+- **[EWSN'21]** <span class="badge badge-core-a">Core A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed". [[Paper]](/files/papers/conference/tian21chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best paper nominee)</span>
 
 **Journal**
 
@@ -76,10 +75,9 @@ function toggleNews() {
 
 - **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging". [[Paper]](/files/papers/workshop_demo_poster/demo_yan_sensys25.pdf)
 - **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, Huangxun Chen, **<u>Fengxu Yang</u>**, Zhice Yang, "LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
-- **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei. "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
-- **[ACM SenSys'21 Workshop]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei. "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
-- **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei. "Poster: Chirpbox-A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf)
- <span style="color:#d73a49; font-weight:600;">(Best Poster)</span>
+- **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
+- **[ACM SenSys'21 Workshop]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
+- **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei, "Poster: Chirpbox-A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Poster)</span>
 
 <div id="awards"></div>
 
