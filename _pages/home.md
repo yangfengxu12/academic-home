@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D. candidate in the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in Shanghai, China, supervised by [Prof. Zhice Yang](https://yangzhice.com). I was admitted to the Ph.D. program after completing my master's training at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) (2019–2022), where I worked with Prof. Jiangming Wei and was mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com). I received my bachelor's degree from the School of Information and Communication Engineering, North University of China, in Taiyuan, Shanxi, China, in 2018.
+I am a Ph.D. candidate at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Zhice Yang](https://yangzhice.com). Previously, I trained at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) (2019–2022) and received my B.S. from North University of China in 2018.
 
 <p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently on the job market for postdoctoral positions!</p>
 
@@ -60,7 +60,7 @@ function toggleNews() {
 
 **Conference**
 
- - **[IEEE SECON'26]**  <span class="badge badge-ccf-b">CCF-B</span>Jiaqi Zhou and **<u>Fengxu Yang</u>**; Yihui Yan; Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". [[Paper]](/files/papers/conference/zhou_secon26lora2mobile.pdf)
+ - **[IEEE SECON'26]**  <span class="badge badge-ccf-b">CCF-B</span> Jiaqi Zhou and **<u>Fengxu Yang</u>**; Yihui Yan; Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". [[Paper]](/files/papers/conference/zhou_secon26lora2mobile.pdf)
  - **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">Core A</span> **<u>Fengxu Yang</u>**, Yihui Yan, Paizhuo Chen, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
  - **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou, Jiaqi Zhou, Zhice Yang. "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
  - **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang. "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
