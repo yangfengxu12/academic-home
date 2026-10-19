@@ -18,13 +18,6 @@ I received my Ph.D. in Computer Science and Technology from [ShanghaiTech Univer
 
 My current research focuses on the trustworthiness of in-vehicle perception and edge intelligence systems, with an emphasis on the reliability of vehicular perception, the security of edge inference models, and data privacy protection. Previously, I worked on narrowband wireless network coexistence, heterogeneous networking, and cross-technology communication, aiming to enable robust connectivity for embedded devices.
 
-**Selected Projects**
-
-- **LiDAR face identity privacy** (under review): studies whether in-vehicle LiDAR point clouds can leak pedestrian identities through captured face point clouds. To cope with sparse face points and the lack of paired training data, we build LiDARFace, which generates training samples from simulated scans and links facial geometry to existing photo galleries via depth completion and cross-modal matching.
-- **Covert leakage from in-vehicle edge inference models** (RAID'25): investigates whether keeping raw images on the vehicle and uploading only inference results can really protect raw data. DeepSpy, an edge-inference attack prototype, hides raw image information in normal outputs such as confidence scores so that the cloud can recover sensitive content from multiple inference results.
-- **Machine-readable road markers for LiDAR** (SenSys'25): proposes LiDARMarker, a machine-friendly road marker that uses materials transparent in visible light but infrared-absorbing to encode road information as LiDAR-readable reflectance differences, with a sector structure and decoding method designed for sparse scanning.
-- **Low-power wireless communication and testbeds** (IPSN'22, EWSN'22, EWSN'21, Sensors'21): multi-network coexistence, heterogeneous access, and cross-technology communication for LoRa, including the EMU and ChirpBox prototype systems and a large-scale outdoor LoRa testbed.
-
 ## News
 {: #news}
 
@@ -34,8 +27,8 @@ My current research focuses on the trustworthiness of in-vehicle perception and 
   <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" was accepted by <strong>IEEE SECON'26</strong>!</li>
   <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
   <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
-  <li><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
-  <li><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
+  <li class="hidden-news"><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
+  <li class="hidden-news"><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
   <li class="hidden-news"><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
   <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 Received <strong>SIST Outstanding Teaching Assistant</strong> Award.</li>
   <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>EWSN'22</strong>!</li>
