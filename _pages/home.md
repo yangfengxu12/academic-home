@@ -7,19 +7,29 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D. candidate at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Zhice Yang](https://yangzhice.com). Previously, I trained at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) (2019–2022) and received my B.S. from North University of China in 2018.
+I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026, advised by [Prof. Zhice Yang](https://yangzhice.com). Before that, I was a master's student (2019–2022) at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn), advised by Prof. Jianming Wei. I received my B.S. from North University of China in 2018.
 
 <p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently on the job market for postdoctoral positions!</p>
 
 ## Research Interests
 {: #research}
 
-My research primarily focuses on **LiDAR-centric perception and the security and privacy of autonomous driving systems**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
+**Keywords:** Trustworthy In-Vehicle Perception; Edge AI Security; Data Privacy Protection; Low-Power Wireless Communication
+
+My current research focuses on the trustworthiness of in-vehicle perception and edge intelligence systems, with an emphasis on the reliability of vehicular perception, the security of edge inference models, and data privacy protection. Previously, I worked on narrowband wireless network coexistence, heterogeneous networking, and cross-technology communication, aiming to enable robust connectivity for embedded devices.
+
+**Selected Projects**
+
+- **LiDAR face identity privacy** (under review): studies whether in-vehicle LiDAR point clouds can leak pedestrian identities through captured face point clouds. To cope with sparse face points and the lack of paired training data, we build LiDARFace, which generates training samples from simulated scans and links facial geometry to existing photo galleries via depth completion and cross-modal matching.
+- **Covert leakage from in-vehicle edge inference models** (RAID'25): investigates whether keeping raw images on the vehicle and uploading only inference results can really protect raw data. DeepSpy, an edge-inference attack prototype, hides raw image information in normal outputs such as confidence scores so that the cloud can recover sensitive content from multiple inference results.
+- **Machine-readable road markers for LiDAR** (SenSys'25): proposes LiDARMarker, a machine-friendly road marker that uses materials transparent in visible light but infrared-absorbing to encode road information as LiDAR-readable reflectance differences, with a sector structure and decoding method designed for sparse scanning.
+- **Low-power wireless communication and testbeds** (IPSN'22, EWSN'22, EWSN'21, Sensors'21): multi-network coexistence, heterogeneous access, and cross-technology communication for LoRa, including the EMU and ChirpBox prototype systems and a large-scale outdoor LoRa testbed.
 
 ## News
 {: #news}
 
 <ul id="news-list">
+  <li><strong>[2026-07-01]</strong> 🎓 I received my Ph.D. degree in Computer Science and Technology from ShanghaiTech University!</li>
   <li><strong>[2026-05-21]</strong> 🎉 I passed my Ph.D. defense!</li>
   <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" was accepted by <strong>IEEE SECON'26</strong>!</li>
   <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
@@ -71,6 +81,10 @@ function toggleNews() {
 
 - **[MDPI Sensors'21]** Qingjie Guo, **<u>Fengxu Yang</u>**, Jianming Wei, "Experimental Evaluation of the Packet Reception Performance of LoRa", Sensors, 2021, 21[4]: 1071. [[Paper]](/files/papers/journal/guo_sensors21.pdf)
 
+**Patent**
+
+- **<u>Fengxu Yang</u>**, Yu An, Bobo Zhou, Shaoyu Wang, Huitong Fu, "Elderly Mobility Aid Monitoring Device Based on the BeiDou Satellite Navigation System". CN206479642U (Granted)
+
 **Workshop & Demo & Poster**
 
 - **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging". [[Paper]](/files/papers/workshop_demo_poster/demo_yan_sensys25.pdf)
@@ -88,6 +102,7 @@ function toggleNews() {
 - 2nd place at the 2022 Lights of Future – Future Network Technology and Innovation Competition, 2022
 - EWSN Best Paper Nominee, 2021
 - EWSN Best Poster, 2020
+- National Innovation Training Program for Undergraduates (completed), 2017
 - The 3rd prize of International Underwater Robot Competition, 2017
 - The 1st prize Shanxi Undergraduate Electronic Design Competition, 2016
 - The 3rd prize of National Intelligent Things Association Competition, 2016
@@ -104,7 +119,7 @@ function toggleNews() {
 **Teaching Assistant**
 
 - Wireless and Mobile System (CS222) 2024
-- Computer Network (CS120) 2022, 2023
+- Computer Network (CS120) 2022, 2023, 2026
 - Introduction of Information Science and Technology (SI100B) 2020
 
 <div id="service"></div>
@@ -113,3 +128,4 @@ function toggleNews() {
 
 **Reviewer**
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), Reviewer, 2023
+- IEEE Transactions on Green Communications and Networking (TGCN), Reviewer, 2026
