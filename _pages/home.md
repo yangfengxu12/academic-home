@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Science and Technology from [ShanghaiTech Univer
 ## Research Interests
 {: #research}
 
-My current research focuses on the **trustworthiness of in-vehicle perception and edge intelligence systems**, with an emphasis on the reliability of vehicular perception, the security of edge inference models, and data privacy protection. Previously, I worked on narrowband wireless network coexistence, heterogeneous networking, and cross-technology communication, aiming to enable robust connectivity for embedded devices.
+My research primarily focuses on **LiDAR-centric perception and the security and privacy of autonomous driving systems**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
 
 ## News
 {: #news}
