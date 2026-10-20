@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026, advised by [Prof. Zhice Yang](https://yangzhice.com). Before that, I was a master's student (2019–2022) at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn), advised by Prof. Jianming Wei. I received my B.S. from North University of China in 2018.
+I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026, advised by [Prof. Zhice Yang](https://yangzhice.com). Before that, I was a master's student (2019–2022) at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn), advised by Prof. Jianming Wei and mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com/). I received my B.S. from North University of China in 2018.
 
 <p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently on the job market for postdoctoral positions!</p>
 
