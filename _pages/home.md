@@ -89,7 +89,7 @@ function toggleNews() {
 ## Honors & Awards
 
 - ACM SIGBED Student Travel Grant, CPS-IoT Week (10/110), 2025
-- Outstanding Teaching Assistant Award, School of Information Science and Technology (SIST), ShanghaiTech University, 2023
+- Outstanding Teaching Assistant Award, ShanghaiTech University, 2023
 - Second Prize, Future Light – Future Network Technology Innovation Competition, 2022
 - Best Paper Award Nominee, EWSN, 2021
 - Best Poster Award, EWSN, 2020

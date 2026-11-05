@@ -10,6 +10,29 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  // Follow each visitor's browser preference, falling back to light mode.
+  (function () {
+    var browserTheme = typeof window.matchMedia === "function"
+      ? window.matchMedia("(prefers-color-scheme: dark)")
+      : null;
+
+    function applyTheme() {
+      var theme = browserTheme && browserTheme.matches ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", theme);
+      document.documentElement.style.colorScheme = theme;
+    }
+
+    applyTheme();
+
+    if (browserTheme) {
+      if (typeof browserTheme.addEventListener === "function") {
+        browserTheme.addEventListener("change", applyTheme);
+      } else if (typeof browserTheme.addListener === "function") {
+        browserTheme.addListener(applyTheme);
+      }
+    }
+  }());
 </script>
 
 <!-- For all browsers -->
