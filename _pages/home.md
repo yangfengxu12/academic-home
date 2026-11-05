@@ -90,18 +90,18 @@ function toggleNews() {
 
 - ACM SIGBED Student Travel Grant, CPS-IoT Week (10/110), 2025
 - Outstanding Teaching Assistant Award, School of Information Science and Technology (SIST), ShanghaiTech University, 2023
-- Second Prize, [Future Light – Future Network Technology Innovation Competition](https://www.gfnds.com/meitibaodao/490.html), 2022
+- Second Prize, Future Light – Future Network Technology Innovation Competition, 2022
 - Best Paper Award Nominee, EWSN, 2021
 - Best Poster Award, EWSN, 2020
-- National Undergraduate Innovation and Entrepreneurship Training Program (project completed), 2017
-- Third Prize, [International Underwater Robot Competition](https://newsen.pku.edu.cn/news_events/news/focus/5095.html), 2017
+- National Undergraduate Innovation and Entrepreneurship Training Program, 2017
+- Third Prize, International Underwater Robot Competition, 2017
 - First Prize, Shanxi Province Undergraduate Electronic Design Contest, 2016
-- Third Prize, [全国大学生智能互联创新大赛](https://caai.btbu.edu.cn/syjxsfzx/xwgg/tzgg/99046.htm) (North China Regional), 2016
+- Third Prize, National College Student Smart Internet Innovation Competition, 2016
 - Third Prize, International Underwater Robot Competition, 2016
 - Third Prize, China Robot Competition, 2016
 - First Prize, International Underwater Robot Competition, 2015
-- Second Prize (Shanxi Provincial), [National Undergraduate Electronics Design Contest](https://www.nuedc-training.com.cn/index/common/site), 2015
-- Second Prize, Robot Competition for College Students in Five Provinces (Municipalities and Autonomous Regions) of North China, 2015
+- Second Prize, National Undergraduate Electronics Design Contest, 2015
+- Second Prize, Robot Competition for College Students in Five Provinces of North China, 2015
 
 <div id="teaching"></div>
 
@@ -109,9 +109,10 @@ function toggleNews() {
 
 **Teaching Assistant**
 
-- Wireless and Mobile Systems (CS222), 2024
-- Computer Networks (CS120), 2022, 2023, 2026
-- Introduction to Information Science and Technology (SI100B), 2020
+- Computer Network (CS120) 2022 Fall, 2023 Fall, 2026 Fall
+- Wireless and Mobile System (CS222) 2024 Spring
+- Introduction of Information Science and Technology (SI100B) 2020 Spring
+
 
 <div id="service"></div>
 
@@ -119,5 +120,6 @@ function toggleNews() {
 
 **Reviewer**
 
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2023
 - IEEE Transactions on Green Communications and Networking (TGCN), 2026
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2023
+
