@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026 under the supervision of [Prof. Zhice Yang](https://yangzhice.com). Previously, I pursued master's studies at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) from 2019 to 2022, advised by Prof. Jianming Wei and mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com/). I received my bachelor's degree from North University of China in 2018.
+I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026 under the supervision of [Prof. Zhice Yang](https://yangzhice.com). Before transferring to ShanghaiTech's Ph.D. program, I pursued master's studies at ShanghaiTech (2019–2022) through joint training at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences (SARI)](https://www.sari.ac.cn) under the supervision of Prof. Jianming Wei, with mentorship from [Dr. Xiaoyuan Ma](https://maxiaoyuan.com/). I received my bachelor's degree from North University of China in 2018.
 
 <p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently seeking a postdoctoral position!</p>
 
@@ -109,9 +109,9 @@ function toggleNews() {
 
 **Teaching Assistant**
 
-- Computer Network (CS120) 2022 Fall, 2023 Fall, 2026 Fall
-- Wireless and Mobile System (CS222) 2024 Spring
-- Introduction of Information Science and Technology (SI100B) 2020 Spring
+- Computer Networks (CS120), Fall 2022, Fall 2023, and Fall 2026
+- Wireless and Mobile Systems (CS222), Spring 2024
+- Introduction to Information Science and Technology (SI100B), Spring 2020
 
 
 <div id="service"></div>
