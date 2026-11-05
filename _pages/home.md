@@ -68,7 +68,7 @@ function toggleNews() {
 - **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">CORE A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing". [[Paper]](/files/papers/conference/yang_ipsn22emu.pdf)
 - **[EWSN'21]** <span class="badge badge-core-a">CORE A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed". [[Paper]](/files/papers/conference/tian21chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Paper Award Nominee)</span>
 
-**Journal Articles**
+**Journal**
 
 - **[Sensors'21]** Qingjie Guo, **<u>Fengxu Yang</u>**, Jianming Wei, "Experimental Evaluation of the Packet Reception Performance of LoRa", Sensors, 2021, 21(4): 1071. [[Paper]](/files/papers/journal/guo_sensors21.pdf)
 
@@ -81,7 +81,7 @@ function toggleNews() {
 - **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging". [[Paper]](/files/papers/workshop_demo_poster/demo_yan_sensys25.pdf)
 - **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, **<u>Fengxu Yang</u>**, Zhice Yang, Huangxun Chen, "Poster Abstract: LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
 - **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Jianming Wei, Carlo Alberto Boano, "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
-- **[DATA'21 (SenSys/BuildSys Workshop)]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
+- **[DATA'21 (SenSys Workshop)]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
 - **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei, "Poster: Chirpbox – A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Poster Award)</span>
 
 <div id="awards"></div>

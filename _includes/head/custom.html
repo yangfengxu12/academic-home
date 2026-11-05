@@ -56,6 +56,18 @@
     margin-top: 1em;
     margin-bottom: 1em;
   }
+  #news-toggle:focus-visible {
+    outline: 2px solid var(--global-text-color);
+    outline-offset: 3px;
+  }
+  html[data-theme="dark"] #news-toggle {
+    color: var(--global-bg-color) !important;
+    background-color: var(--global-text-color);
+  }
+  html[data-theme="dark"] #news-toggle:hover,
+  html[data-theme="dark"] #news-toggle:focus-visible {
+    filter: brightness(0.9);
+  }
 </style>
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
