@@ -7,9 +7,9 @@ redirect_from:
   - /home.html
 ---
 
-I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026, advised by [Prof. Zhice Yang](https://yangzhice.com). Before that, I was a master's student (2019–2022) at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn), advised by Prof. Jianming Wei and mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com/). I received my B.S. from North University of China in 2018.
+I received my Ph.D. in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in 2026 under the supervision of [Prof. Zhice Yang](https://yangzhice.com). Previously, I pursued master's studies at the [Shanghai Advanced Research Institute, Chinese Academy of Sciences](https://www.sari.ac.cn) from 2019 to 2022, advised by Prof. Jianming Wei and mentored by [Dr. Xiaoyuan Ma](https://maxiaoyuan.com/). I received my bachelor's degree from North University of China in 2018.
 
-<p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently on the job market for postdoctoral positions!</p>
+<p style="color: #d73a49; font-weight: bold; margin-top: 1em;">🔴 I am currently seeking a postdoctoral position!</p>
 
 ## Research Interests
 {: #research}
@@ -20,22 +20,22 @@ My research primarily focuses on **LiDAR-centric perception and the security and
 {: #news}
 
 <ul id="news-list">
-  <li><strong>[2026-07-01]</strong> 🎓 I received my Ph.D. degree in Computer Science and Technology from ShanghaiTech University!</li>
+  <li><strong>[2026-07-01]</strong> 🎓 I received my Ph.D. in Computer Science and Technology from ShanghaiTech University!</li>
   <li><strong>[2026-05-21]</strong> 🎉 I passed my Ph.D. defense!</li>
-  <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" was accepted by <strong>IEEE SECON'26</strong>!</li>
-  <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted by <strong>RAID'25</strong>!</li>
-  <li><strong>[2025-04-15]</strong> 🏆 Received <strong>ACM CPS-IoT Week Student Travel Grant</strong> (10/110).</li>
-  <li class="hidden-news"><strong>[2025-04-06]</strong> 🎉 One demo and one poster were accepted by <strong>ACM SenSys'25</strong>!</li>
-  <li class="hidden-news"><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted by <strong>ACM SenSys'25</strong>!</li>
-  <li class="hidden-news"><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted by <strong>IEEE INFOCOM'25</strong>!</li>
-  <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 Received <strong>SIST Outstanding Teaching Assistant</strong> Award.</li>
-  <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted by <strong>EWSN'22</strong>!</li>
-  <li class="hidden-news"><strong>[2022-03-10]</strong> 🎉 Our paper "EMU: Increasing the Performance and Applicability of LoRa" was accepted by <strong>ACM/IEEE IPSN'22</strong>!</li>
-  <li class="hidden-news"><strong>[2021-09-20]</strong> 🎉 Our dataset paper was accepted by <strong>ACM SenSys'21 Workshop</strong>!</li>
-  <li class="hidden-news"><strong>[2021-01-15]</strong> 🎉 Our paper "ChirpBox: An Infrastructure-Less LoRa Testbed" was accepted by <strong>EWSN'21</strong>!</li>
-  <li class="hidden-news"><strong>[2021-02-17]</strong> 🏆 Received <strong>EWSN Best Paper Nominee</strong>!</li>
-  <li class="hidden-news"><strong>[2020-11-16]</strong> 🏆 Received <strong>EWSN Best Poster</strong> Award!</li>
-  <li class="hidden-news"><strong>[2020-11-16]</strong> 🎉 Our poster was accepted by <strong>EWSN'20</strong>!</li>
+  <li><strong>[2026-03-17]</strong> 🎉 Our paper "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning" was accepted to <strong>IEEE SECON'26</strong>!</li>
+  <li><strong>[2025-08-05]</strong> 🎉 Our paper "An In-model Spy in Edge Intelligence" was accepted to <strong>RAID'25</strong>!</li>
+  <li><strong>[2025-04-15]</strong> 🏆 I received an <strong>ACM SIGBED Student Travel Grant</strong> for CPS-IoT Week 2025 (10/110).</li>
+  <li class="hidden-news"><strong>[2025-04-06]</strong> 🎉 Our demo and poster were accepted to <strong>ACM SenSys'25</strong>!</li>
+  <li class="hidden-news"><strong>[2025-03-10]</strong> 🎉 Our paper "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems" was accepted to <strong>ACM SenSys'25</strong>!</li>
+  <li class="hidden-news"><strong>[2024-12-06]</strong> 🎉 Our paper "Enable Autonomous Backscatter in Everyday Devices" was accepted to <strong>IEEE INFOCOM'25</strong>!</li>
+  <li class="hidden-news"><strong>[2023-06-30]</strong> 🏆 I received the <strong>SIST Outstanding Teaching Assistant Award</strong>.</li>
+  <li class="hidden-news"><strong>[2022-10-01]</strong> 🎉 Our demo paper was accepted to <strong>EWSN'22</strong>!</li>
+  <li class="hidden-news"><strong>[2022-03-10]</strong> 🎉 Our paper "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing" was accepted to <strong>ACM/IEEE IPSN'22</strong>!</li>
+  <li class="hidden-news"><strong>[2021-09-20]</strong> 🎉 Our dataset paper was accepted to <strong>DATA'21 (Data: Acquisition to Analysis)</strong>, a workshop co-located with SenSys/BuildSys 2021!</li>
+  <li class="hidden-news"><strong>[2021-02-17]</strong> 🏆 Our paper was nominated for the <strong>EWSN Best Paper Award</strong>!</li>
+  <li class="hidden-news"><strong>[2021-01-15]</strong> 🎉 Our paper "ChirpBox: An Infrastructure-Less LoRa Testbed" was accepted to <strong>EWSN'21</strong>!</li>
+  <li class="hidden-news"><strong>[2020-11-16]</strong> 🏆 Our poster won the <strong>EWSN Best Poster Award</strong>!</li>
+  <li class="hidden-news"><strong>[2020-11-16]</strong> 🎉 Our poster was accepted to <strong>EWSN'20</strong>!</li>
 </ul>
 
 <button id="news-toggle" class="btn btn--primary btn--small" onclick="toggleNews()">Show More</button>
@@ -59,49 +59,49 @@ function toggleNews() {
 
 ## Publications
 
-**Conference**
+**Conference Papers**
 
 - **[IEEE SECON'26]** <span class="badge badge-ccf-b">CCF-B</span> Jiaqi Zhou, **<u>Fengxu Yang</u>**, Yihui Yan, Zhice Yang, "Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning". [[Paper]](/files/papers/conference/zhou_secon26lora2mobile.pdf)
-- **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">Core A</span> **<u>Fengxu Yang</u>**, Yihui Yan, Paizhuo Chen, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
-- **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Zaizhou Yang, Jiaqi Zhou, Zhice Yang, "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
-- **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">Core A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang, "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
-- **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">Core A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing". [[Paper]](/files/papers/conference/yang_ipsn22emu.pdf)
-- **[EWSN'21]** <span class="badge badge-core-a">Core A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed". [[Paper]](/files/papers/conference/tian21chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best paper nominee)</span>
+- **[RAID'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a">CORE A</span> **<u>Fengxu Yang</u>**, Paizhuo Chen, Yihui Yan, Zhice Yang, "An In-model Spy in Edge Intelligence". [[Paper]](/files/papers/conference/yang_raid25deepspy.pdf)
+- **[ACM SenSys'25]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">CORE A*</span> **<u>Fengxu Yang</u>**, Zaizhou Yang, Jiaqi Zhou, Zhice Yang, "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems". [[Paper]](/files/papers/conference/yang_sensy25lidarmarker.pdf)
+- **[IEEE INFOCOM'25]** <span class="badge badge-ccf-a">CCF-A</span> <span class="badge badge-core-a-star">CORE A*</span> Si Liao, **<u>Fengxu Yang</u>**, Huangxun Chen, Zhice Yang, "Enable Autonomous Backscatter in Everyday Devices". [[Paper]](/files/papers/conference/liao_infocom25.pdf)
+- **[ACM/IEEE IPSN'22]** <span class="badge badge-ccf-b">CCF-B</span> <span class="badge badge-core-a-star">CORE A*</span> **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing". [[Paper]](/files/papers/conference/yang_ipsn22emu.pdf)
+- **[EWSN'21]** <span class="badge badge-core-a">CORE A</span> Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, **<u>Fengxu Yang</u>**, Xin Tian, Dan Li, Jianming Wei, "ChirpBox: An Infrastructure-Less LoRa Testbed". [[Paper]](/files/papers/conference/tian21chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Paper Award Nominee)</span>
 
-**Journal**
+**Journal Articles**
 
-- **[MDPI Sensors'21]** Qingjie Guo, **<u>Fengxu Yang</u>**, Jianming Wei, "Experimental Evaluation of the Packet Reception Performance of LoRa", Sensors, 2021, 21[4]: 1071. [[Paper]](/files/papers/journal/guo_sensors21.pdf)
+- **[Sensors'21]** Qingjie Guo, **<u>Fengxu Yang</u>**, Jianming Wei, "Experimental Evaluation of the Packet Reception Performance of LoRa", Sensors, 2021, 21(4): 1071. [[Paper]](/files/papers/journal/guo_sensors21.pdf)
 
-**Patent**
+**Patents**
 
 - **<u>Fengxu Yang</u>**, Yu An, Bobo Zhou, Shaoyu Wang, Huitong Fu, "Elderly Mobility Aid Monitoring Device Based on the BeiDou Satellite Navigation System". CN206479642U (Granted)
 
-**Workshop & Demo & Poster**
+**Workshops, Demos, and Posters**
 
 - **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging". [[Paper]](/files/papers/workshop_demo_poster/demo_yan_sensys25.pdf)
-- **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, Huangxun Chen, **<u>Fengxu Yang</u>**, Zhice Yang, "LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
-- **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, Ye Liu, Jianming Wei, "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
-- **[ACM SenSys'21 Workshop]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
-- **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei, "Poster: Chirpbox-A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Poster)</span>
+- **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, **<u>Fengxu Yang</u>**, Zhice Yang, Huangxun Chen, "Poster Abstract: LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
+- **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Jianming Wei, Carlo Alberto Boano, "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
+- **[DATA'21 (SenSys/BuildSys Workshop)]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
+- **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei, "Poster: Chirpbox – A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Poster Award)</span>
 
 <div id="awards"></div>
 
 ## Honors & Awards
 
-- ACM CPS-IoT Week Student Travel Grant (10/110), 2025
-- SIST Outstanding Teaching Assistant, 2023
-- 2nd place at the 2022 Lights of Future – Future Network Technology and Innovation Competition, 2022
-- EWSN Best Paper Nominee, 2021
-- EWSN Best Poster, 2020
-- National Innovation Training Program for Undergraduates (completed), 2017
-- The 3rd prize of International Underwater Robot Competition, 2017
-- The 1st prize Shanxi Undergraduate Electronic Design Competition, 2016
-- The 3rd prize of National Intelligent Things Association Competition, 2016
-- The 3rd prize of International Underwater Robot Competition, 2016
-- The 3rd prize of China Robot Competition, 2016
-- The 1st prize of International Underwater Robot Competition, 2015
-- The 2nd prize of National Undergraduate Electronic Design Competition, 2015
-- The 2nd prize of Robot Competition in North China, 2015
+- ACM SIGBED Student Travel Grant, CPS-IoT Week (10/110), 2025
+- Outstanding Teaching Assistant Award, School of Information Science and Technology (SIST), ShanghaiTech University, 2023
+- Second Prize, [Future Light – Future Network Technology Innovation Competition](https://www.gfnds.com/meitibaodao/490.html), 2022
+- Best Paper Award Nominee, EWSN, 2021
+- Best Poster Award, EWSN, 2020
+- National Undergraduate Innovation and Entrepreneurship Training Program (project completed), 2017
+- Third Prize, [International Underwater Robot Competition](https://newsen.pku.edu.cn/news_events/news/focus/5095.html), 2017
+- First Prize, Shanxi Province Undergraduate Electronic Design Contest, 2016
+- Third Prize, [全国大学生智能互联创新大赛](https://caai.btbu.edu.cn/syjxsfzx/xwgg/tzgg/99046.htm) (North China Regional), 2016
+- Third Prize, International Underwater Robot Competition, 2016
+- Third Prize, China Robot Competition, 2016
+- First Prize, International Underwater Robot Competition, 2015
+- Second Prize (Shanxi Provincial), [National Undergraduate Electronics Design Contest](https://www.nuedc-training.com.cn/index/common/site), 2015
+- Second Prize, Robot Competition for College Students in Five Provinces (Municipalities and Autonomous Regions) of North China, 2015
 
 <div id="teaching"></div>
 
@@ -109,14 +109,15 @@ function toggleNews() {
 
 **Teaching Assistant**
 
-- Wireless and Mobile System (CS222) 2024
-- Computer Network (CS120) 2022, 2023, 2026
-- Introduction of Information Science and Technology (SI100B) 2020
+- Wireless and Mobile Systems (CS222), 2024
+- Computer Networks (CS120), 2022, 2023, 2026
+- Introduction to Information Science and Technology (SI100B), 2020
 
 <div id="service"></div>
 
 ## Professional Service
 
 **Reviewer**
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), Reviewer, 2023
-- IEEE Transactions on Green Communications and Networking (TGCN), Reviewer, 2026
+
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2023
+- IEEE Transactions on Green Communications and Networking (TGCN), 2026
