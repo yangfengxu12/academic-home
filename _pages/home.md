@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Science and Technology from [ShanghaiTech Univer
 ## Research Interests
 {: #research}
 
-My research focuses on **LiDAR-based sensing and the security and privacy of autonomous driving**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
+My research focuses on **LiDAR-based sensing and the security and privacy of autonomous driving systems**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
 
 ## News
 {: #news}
