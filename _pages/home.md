@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Science and Technology from [ShanghaiTech Univer
 ## Research Interests
 {: #research}
 
-My research primarily focuses on **LiDAR-centric perception and the security and privacy of autonomous driving systems**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
+My research focuses on **LiDAR-based sensing and the security and privacy of autonomous driving**. Previously, I worked on wireless network coexistence, heterogeneous networking, and cross-technology communication to enable robust connectivity for embedded devices.
 
 ## News
 {: #news}
@@ -79,9 +79,9 @@ function toggleNews() {
 **Workshops, Demos, and Posters**
 
 - **[ACM SenSys'25 Demo]** Zaizhou Yang, Yihui Yan, **<u>Fengxu Yang</u>**, Zhice Yang, "Demo Abstract: Using Fingerprint Scanner for On-Body Messaging". [[Paper]](/files/papers/workshop_demo_poster/demo_yan_sensys25.pdf)
-- **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, **<u>Fengxu Yang</u>**, Zhice Yang, Huangxun Chen, "Poster Abstract: LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
+- **[ACM SenSys'25 Poster]** Yihong Hang, Hao Li, Huangxun Chen, **<u>Fengxu Yang</u>**, Zhice Yang, "Poster Abstract: LLM-Piloted Visual Privacy Agent on Mobile Systems". [[Paper]](/files/papers/workshop_demo_poster/poster_hang_sensys25.pdf)
 - **[EWSN'22 Demo]** **<u>Fengxu Yang</u>**, Pei Tian, Xiaoyuan Ma, Jianming Wei, Carlo Alberto Boano, "Demo: Real-Time Decoding of LoRa Packets Without Prior Knowledge of their Spreading Factor". [[Paper]](/files/papers/workshop_demo_poster/demo_yang_ewsn21sfdec.pdf)
-- **[DATA'21 (SenSys Workshop)]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
+- **[DATA'21]** Pei Tian, **<u>Fengxu Yang</u>**, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, Ye Liu, Jianming Wei, "Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network". The 4th Workshop on Data: Acquisition to Analysis (DATA ’21), co-located with SenSys/BuildSys 2021. [[Paper]](/files/papers/workshop_demo_poster/workshop_tian_sensys21.pdf)
 - **[EWSN'20 Poster]** Xiaoyuan Ma, Dan Li, **<u>Fengxu Yang</u>**, Carlo Alberto Boano, Pei Tian, Jianming Wei, "Poster: Chirpbox – A Low-Cost LoRa Testbed Solution". [[Paper]](/files/papers/workshop_demo_poster/poster_tain_ewsn20chirpbox.pdf) <span style="color:#d73a49; font-weight:600;">(Best Poster Award)</span>
 
 <div id="awards"></div>
@@ -121,5 +121,5 @@ function toggleNews() {
 **Reviewer**
 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2026
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2023
+- IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS), 2023
 
